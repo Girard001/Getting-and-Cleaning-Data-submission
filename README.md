@@ -27,17 +27,17 @@ Anguita. November, 2012). The following datasets are used:
 
 For Section 1 of the script
 
-  - train/X_train.txt - main training dataset
+  - X_train.txt - main training dataset
   
-  - train/y_train.txt - training Activity dataset
+  - y_train.txt - training Activity dataset
   
   - subject_train.txt - training Subject dataset
 
 For Section 2 of the script
 
-  - test/X_test.tx - main testing dataset
+  - X_test.tx - main testing dataset
   
-  - test/y_test.txt - testing Activity dataset
+  - y_test.txt - testing Activity dataset
   
   - subject_test.txt - testing Subject dataset
 

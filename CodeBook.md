@@ -1,11 +1,3 @@
----
-title: "CodeBook"
-author: DLG
-date: October 29, 2021
-output: md_document
----
-
-
 This work is dervied from the Human Activity Recognition Using
 Smartphone Dataset (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto,
 David Anguita. November, 2012), available here:
@@ -25,14 +17,21 @@ Detailed information is available in the README file and codebook (features_info
 
 The following datasets are used for this project:
 
-  train/X_train.txt - main training dataset
-  train/y_train.txt -  training Activity dataset 
-  subject_train.txt - training Subject dataset
-  test/X_test.tx -  main testing dataset
-  test/y_test.txt -  testing Activity dataset
-  subject_test.txt - testing Subject dataset
-  features.txt - feature variable labels dataset
-  activity_labels.txt - Activity coding dataset
+  - X_train.txt - main training dataset
+  
+  - y_train.txt -  training Activity dataset
+  
+  - subject_train.txt - training Subject dataset
+  
+  - X_test.tx -  main testing dataset
+  
+  - y_test.txt -  testing Activity dataset
+  
+  - subject_test.txt - testing Subject dataset
+  
+  - features.txt - feature variable labels dataset
+  
+  - activity_labels.txt - Activity coding dataset
   
 For this project, 66 feature variables (of means and standard deviations)
 were selected. 
