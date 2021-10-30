@@ -12,10 +12,10 @@ for the "Getting and Cleaning Data" class.
 
 The GitHub repository "Getting-and-Cleaning-Data-submission" contains the following files:
 
-README.md
-CodeBook.md
-run_analysis.R (script)
-tidy_summary.csv 
+*README.md
+*CodeBook.md
+*run_analysis.R (script)
+*tidy_summary.csv 
 
 
 There are two steps in this project. First, assemble a dataset of 10299
@@ -32,18 +32,18 @@ This work is based on the Human Activity Recognition Using Smartphones
 Dataset (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, David
 Anguita. November, 2012). The following datasets are used:
 
-  For Section 1 of the script 
-    train/X_train.txt - main training dataset
-    train/y_train.txt -  training Activity dataset 
-    subject_train.txt - training Subject dataset
+  *For Section 1 of the script 
+    +train/X_train.txt - main training dataset
+    +train/y_train.txt -  training Activity dataset 
+    +subject_train.txt - training Subject dataset
   
-  For Section 2 of the script 
-    test/X_test.tx -  main testing dataset
-    test/y_test.txt -  testing Activity dataset
-    subject_test.txt - testing Subject dataset
+  *For Section 2 of the script 
+    +test/X_test.tx -  main testing dataset
+    +test/y_test.txt -  testing Activity dataset
+    +subject_test.txt - testing Subject dataset
 
-  For Section 4 of the script
-    features.txt - feature variable labels dataset
+  *For Section 4 of the script
+    +features.txt - feature variable labels dataset
 
-  For Section 6 of the script
-    activity_labels.txt - Activity coding dataset
+  *For Section 6 of the script
+    +activity_labels.txt - Activity coding dataset
